@@ -1,0 +1,1502 @@
+﻿Log file open, 05/06/19 18:00:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Cornocopian.uproject
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.237837
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.096s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.06-17.00.57:625][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.06-17.00.57:626][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:626][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:632][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.06-17.00.57:632][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.06-17.00.57:633][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.06-17.00.57:633][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.06-17.00.57:633][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.06-17.00.57:644][  0]LogHAL: Display: Platform has ~ 16 GB [17129021440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.06-17.00.57:644][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.06-17.00.57:644][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.06-17.00.57:644][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:644][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.06-17.00.57:645][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.06-17.00.57:646][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.06-17.00.57:646][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Config/Windows/Engine.ini]
+[2019.05.06-17.00.57:646][  0]LogInit: Computer: ERICAWINS
+[2019.05.06-17.00.57:646][  0]LogInit: User: olive
+[2019.05.06-17.00.57:646][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.06-17.00.57:646][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.06-17.00.57:646][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.05.06-17.00.57:646][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.06-17.00.57:646][  0]LogMemory: Process Physical Memory: 103.43 MB used, 103.44 MB peak
+[2019.05.06-17.00.57:646][  0]LogMemory: Process Virtual Memory: 97.12 MB used, 97.12 MB peak
+[2019.05.06-17.00.57:646][  0]LogMemory: Physical Memory: 5496.89 MB used,  10838.62 MB free, 16335.51 MB total
+[2019.05.06-17.00.57:646][  0]LogMemory: Virtual Memory: 4651.81 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.06-17.00.57:664][  0]LogInit: Using OS detected language (en-US).
+[2019.05.06-17.00.57:664][  0]LogInit: Using OS detected locale (en-GB).
+[2019.05.06-17.00.57:664][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.06-17.00.57:978][  0]LogStreaming: Display: Took  0.315s to InitEngineTextLocalization.
+[2019.05.06-17.00.57:978][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.06-17.00.58:009][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.06-17.00.58:009][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.06-17.00.58:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.06-17.00.58:186][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.06-17.00.58:244][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.05.06-17.00.58:244][  0]LogD3D11RHI:       2997/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.06-17.00.58:246][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.06-17.00.58:246][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.06-17.00.58:246][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.06-17.00.58:251][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.06-17.00.58:251][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.06-17.00.58:251][  0]LogWindows: EnumDisplayDevices:
+[2019.05.06-17.00.58:251][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.05.06-17.00.58:252][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.05.06-17.00.58:252][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.06-17.00.58:252][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.06-17.00.58:252][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.06-17.00.58:252][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.05.06-17.00.58:252][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.05.06-17.00.58:252][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.05.06-17.00.58:252][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2019.05.06-17.00.58:274][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.06-17.00.58:286][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.06-17.01.05:775][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.06-17.01.05:787][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.06-17.01.05:799][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.06-17.01.05:812][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.06-17.01.05:824][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.06-17.01.05:837][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.06-17.01.05:849][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.06-17.01.05:862][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.06-17.01.05:868][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.06-17.01.05:937][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.06-17.01.05:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.06-17.01.05:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.06-17.01.06:016][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.06-17.01.06:016][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.06-17.01.06:027][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.06-17.01.06:038][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.06-17.01.06:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.06-17.01.06:061][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.06-17.01.06:102][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.06-17.01.06:102][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.06-17.01.06:102][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.06-17.01.06:152][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Intermediate/Shaders/WorkingDirectory/8084/).
+[2019.05.06-17.01.06:152][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/olive/AppData/Local/Temp/UnrealShaderWorkingDir/D0FA03644F924F3C5C89F9810F7C6574/'.
+[2019.05.06-17.01.06:154][  0]LogXGEController: Cleaning working directory: C:/Users/olive/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.06-17.01.06:154][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.06-17.01.06:154][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.06-17.01.06:154][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.06-17.01.06:627][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/olive/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/olive/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.06-17.01.06:672][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.06-17.01.06:686][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.06-17.01.06:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.06-17.01.06:686][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.06-17.01.06:699][  0]LogDerivedDataCache: Using Local data cache path C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.06-17.01.06:699][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.06-17.01.06:699][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.06-17.01.06:718][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.06-17.01.06:719][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.06-17.01.06:720][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.06-17.01.06:809][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2019.05.06-17.01.07:083][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.06-17.01.07:142][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.06-17.01.07:145][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.06-17.01.07:145][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.06-17.01.07:145][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.06-17.01.07:145][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.06-17.01.07:226][  0]LogNetVersion: Cornocopian 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 598708983)
+[2019.05.06-17.01.07:699][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.114037 seconds
+[2019.05.06-17.01.07:707][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.06-17.01.07:707][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.06-17.01.07:707][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.06-17.01.08:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.06-17.01.08:509][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.06-17.01.09:317][  0]SourceControl: Source control is disabled
+[2019.05.06-17.01.09:317][  0]SourceControl: Source control is disabled
+[2019.05.06-17.01.09:319][  0]SourceControl: Source control is disabled
+[2019.05.06-17.01.09:319][  0]SourceControl: Source control is disabled
+[2019.05.06-17.01.09:480][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.06-17.01.09:550][  0]LogOcInput: OculusInput pre-init called
+[2019.05.06-17.01.09:675][  0]LogEngine: Initializing Engine...
+[2019.05.06-17.01.09:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.06-17.01.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.06-17.01.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.06-17.01.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.06-17.01.09:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.06-17.01.09:881][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.06-17.01.09:892][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.06-17.01.09:920][  0]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.01.09:943][  0]LogInit: FAudioDevice initialized.
+[2019.05.06-17.01.09:943][  0]LogNetVersion: Set ProjectVersion to 2.2. Version Checksum will be recalculated on next use.
+[2019.05.06-17.01.11:269][  0]LogDerivedDataCache: Saved boot cache 1.33s 71MB C:/Users/olive/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.06-17.01.11:296][  0]LogInit: Texture streaming: Enabled
+[2019.05.06-17.01.11:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.06-17.01.11:324][  0]LogInit: Transaction tracking system initialized
+[2019.05.06-17.01.11:343][  0]BlueprintLog: New page: Editor Load
+[2019.05.06-17.01.11:408][  0]LocalizationService: Localization service is disabled
+[2019.05.06-17.01.11:837][  0]LogFileCache: Scanning file cache for directory 'C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/' took 0.01s
+[2019.05.06-17.01.11:837][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.06-17.01.11:837][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.06-17.01.11:837][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.06-17.01.11:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.06-17.01.11:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.06-17.01.11:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.06-17.01.11:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.06-17.01.11:948][  0]SourceControl: Source control is disabled
+[2019.05.06-17.01.11:948][  0]LightingResults: New page: Lighting Build
+[2019.05.06-17.01.11:950][  0]MapCheck: New page: Map Check
+[2019.05.06-17.01.11:950][  0]LightingResults: New page: Lighting Build
+[2019.05.06-17.01.11:978][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Graph_Node.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:031][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:044][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:102][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Geometry/Meshes/1M_Cube.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:153][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Room.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:158][  0]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Triangle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.01.12:822][  0]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.01.12:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.01.12:870][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.01.12:870][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2019.05.06-17.01.12:871][  0]LogFileHelpers: Loading map 'Display' took 0.923
+[2019.05.06-17.01.12:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.01.12:969][  0]LogCollectionManager: Loaded 0 collections in 0.001727 seconds
+[2019.05.06-17.01.13:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Collections/' took 0.01s
+[2019.05.06-17.01.13:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Developers/olive/Collections/' took 0.01s
+[2019.05.06-17.01.13:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Collections/' took 0.01s
+[2019.05.06-17.01.13:009][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.06-17.01.13:016][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2652 classes and 622 folders.
+[2019.05.06-17.01.13:025][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.06-17.01.13:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-17.01.13:065][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.06-17.01.13:136][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.06-17.01.13:140][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.06-17.01.13:140][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.06-17.01.13:229][  0]LogSlate: Took 0.086897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.05.06-17.01.13:334][  0]LogRenderer: Reallocating scene render targets to support 1228x592 Format 10 NumSamples 1 (Frame:1).
+[2019.05.06-17.01.13:378][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.06-17.01.13:464][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.06-17.01.13:464][  0]LogLoad: (Engine Initialization) Total time: 17.29 seconds
+[2019.05.06-17.01.13:464][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.06-17.01.13:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.06-17.01.13:819][  3]LogAssetRegistry: Asset discovery search completed in 7.0315 seconds
+[2019.05.06-17.01.13:821][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.06-17.01.13:821][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000208 seconds (updated 0 objects)
+[2019.05.06-17.01.15:429][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.01.17:165][392]LogSlate: Window 'Output Log' being destroyed
+[2019.05.06-17.01.17:168][392]LogSlate: Window 'Output Log' being destroyed
+[2019.05.06-17.01.19:724][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.01.19:850][713]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.06-17.01.19:857][713]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Display.Display
+[2019.05.06-17.01.19:877][713]LightingResults: New page: Lighting Build
+[2019.05.06-17.01.19:877][713]LoadErrors: New page: Loading map: Display.umap
+[2019.05.06-17.01.19:878][713]MapCheck: New page: Map Check
+[2019.05.06-17.01.19:878][713]LightingResults: New page: Lighting Build
+[2019.05.06-17.01.20:320][713]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.01.20:393][713]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.01.20:444][713]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.01.20:445][713]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.05.06-17.01.20:447][713]LogFileHelpers: Loading map 'Display' took 0.570
+[2019.05.06-17.01.21:776][859]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Display.Display:PersistentLevel.Display
+[2019.05.06-17.01.22:131][859]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.05.06-17.01.22:727][859]LogSlate: Took 0.020324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.06-17.01.23:517][860]LogSlate: Took 0.028426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.06-17.01.28:932][153]LogSlate: Window 'Display - Level Blueprint Editor' being destroyed
+[2019.05.06-17.01.28:935][153]LogSlate: Window 'Display - Level Blueprint Editor' being destroyed
+[2019.05.06-17.02.02:591][880]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Display3462055A4958FDD7D328568FF5A8F244.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Display.umap'
+[2019.05.06-17.02.02:644][880]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Display_BuiltData8EC8DCCD4AE376460A43CC98D2E4DF64.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Display_BuiltData.uasset'
+[2019.05.06-17.02.07:137][411]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Game/Blueprints/Display/HUD_display.HUD_display
+[2019.05.06-17.02.11:470][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.02.11:470][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.02.11:470][817]PIE: New page: SIE session: Display (6 May 2019 19:02:11)
+[2019.05.06-17.02.11:482][817]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Display
+[2019.05.06-17.02.11:512][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029544s)
+[2019.05.06-17.02.11:512][817]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.02.11:512][817]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.05.06-17.02.11:512][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Display.Display to /Game/Game/RenderTypes/UEDPIE_0_Display.Display (0.030295s)
+[2019.05.06-17.02.11:566][817]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.02.11:581][817]LogInit: FAudioDevice initialized.
+[2019.05.06-17.02.11:621][817]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.02.11:628][817]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Display.Display up for play (max tick rate 0) at 2019.05.06-18.02.11
+[2019.05.06-17.02.11:629][817]LogWorld: Bringing up level for play took: 0.005241
+[2019.05.06-17.02.11:642][817]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.02.11:646][817]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.06-17.02.13:725][817]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Display 2.58
+[2019.05.06-17.02.13:730][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.02.20:716][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.02.20:717][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.02.20:749][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.02.20:749][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.02.20:777][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.02.20:822][393]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.06-17.02.22:903][582]LogSlate: Took 0.001256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.06-17.02.32:083][339]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/HUD_displayE57DD6B74B415E863CDC419AC5A33B06.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/Blueprints/Display/HUD_display.uasset'
+[2019.05.06-17.02.37:670][937]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Game/Blueprints/Caves/HUD_Caves.HUD_Caves
+[2019.05.06-17.02.40:217][160]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/HUD_CavesA0AECBA44C349DFA8C8C31B3574F7788.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/Blueprints/Caves/HUD_Caves.uasset'
+[2019.05.06-17.02.49:610][248]LogLinker: Warning: Asset '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Geometry/Meshes/CubeMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.06-17.02.50:055][248]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.02.50:063][248]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Caves.Caves
+[2019.05.06-17.02.50:094][248]LightingResults: New page: Lighting Build
+[2019.05.06-17.02.50:094][248]LoadErrors: New page: Loading map: Caves.umap
+[2019.05.06-17.02.50:095][248]MapCheck: New page: Map Check
+[2019.05.06-17.02.50:095][248]LightingResults: New page: Lighting Build
+[2019.05.06-17.02.50:208][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.02.50:267][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.02.50:268][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.246ms to complete.
+[2019.05.06-17.02.50:268][248]LogFileHelpers: Loading map 'Caves' took 0.174
+[2019.05.06-17.02.54:884][731]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves
+[2019.05.06-17.03.47:853][378]LogBlueprint: Error: [Compiler PersistentLevel.Caves] Could not find a function named "HUD Display Rendering " in 'Caves_C'.
+Make sure 'Caves_C' has been compiled for  HUD Display Rendering 
+[2019.05.06-17.03.47:901][378]LogBlueprint: Warning: [Compiler PersistentLevel.Caves] [0171.73] Compile of PersistentLevel.Caves failed. 1 Fatal Issue(s) 0 Warning(s) [in 178 ms] (/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves)
+[2019.05.06-17.03.48:453][378]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Caves2A3E253349B07EB36ED0ACB2B7436BFE.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.03.48:489][378]LogFileHelpers: Saving map 'Caves' took 0.920
+[2019.05.06-17.03.49:904][476]BlueprintLog: New page: Compile Caves
+[2019.05.06-17.03.50:145][476]LogBlueprint: Error: [Compiler PersistentLevel.Caves] Could not find a function named "HUD Display Rendering " in 'Caves_C'.
+Make sure 'Caves_C' has been compiled for  HUD Display Rendering 
+[2019.05.06-17.03.50:381][476]LogBlueprint: Warning: [Compiler PersistentLevel.Caves] [0174.21] Compile of PersistentLevel.Caves failed. 1 Fatal Issue(s) 0 Warning(s) [in 476 ms] (/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves)
+[2019.05.06-17.03.57:301][965]BlueprintLog: New page: Compile Caves
+[2019.05.06-17.03.59:541][  9]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Caves8DB74E0B4ED72B2EE98A64A87028B0C3.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.03.59:575][  9]LogFileHelpers: Saving map 'Caves' took 0.909
+[2019.05.06-17.04.00:258][ 34]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.04.00:277][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.00:278][ 34]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.04.00:315][ 34]LogPlayLevel: [PlayLevel] Compiling HUD_display before play...
+[2019.05.06-17.04.00:531][ 34]LogPlayLevel: PlayLevel: Blueprint regeneration took 253 ms (1 blueprints)
+[2019.05.06-17.04.00:531][ 34]PIE: New page: SIE session: Caves (6 May 2019 19:04:00)
+[2019.05.06-17.04.00:531][ 34]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.04.00:557][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026120s)
+[2019.05.06-17.04.00:558][ 34]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.04.00:558][ 34]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.05.06-17.04.00:558][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026917s)
+[2019.05.06-17.04.00:609][ 34]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.04.00:624][ 34]LogInit: FAudioDevice initialized.
+[2019.05.06-17.04.00:664][ 34]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.04.00:666][ 34]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.04.00
+[2019.05.06-17.04.00:667][ 34]LogWorld: Bringing up level for play took: 0.001735
+[2019.05.06-17.04.00:678][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.04.00:679][ 34]LogScript: Warning: Accessed None trying to read property HUD Reference
+	Caves_C /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves:PersistentLevel.Caves_C_4
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ExecuteUbergraph_Caves:1A62
+[2019.05.06-17.04.00:679][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Reference". Blueprint:  Caves Function:  Execute Ubergraph Caves Graph:  EventGraph Node:  Bind Event to OnClicked
+[2019.05.06-17.04.00:679][ 34]LogScript: Warning: Accessed None
+	Caves_C /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves:PersistentLevel.Caves_C_4
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ExecuteUbergraph_Caves:1A77
+[2019.05.06-17.04.00:680][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Caves Function:  Execute Ubergraph Caves Graph:  EventGraph Node:  Bind Event to OnClicked
+[2019.05.06-17.04.00:680][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.03:139][ 34]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 1.993
+[2019.05.06-17.04.03:140][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.12:359][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.12:359][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.12:414][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.04.12:414][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.12:443][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.12:865][662]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.06-17.04.14:404][826]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.14:404][826]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.14:964][888]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.14:965][888]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.16:411][ 38]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.16:411][ 38]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.04.17:634][174]LogSlate: Window 'Message Log' being destroyed
+[2019.05.06-17.04.17:638][174]LogSlate: Window 'Message Log' being destroyed
+[2019.05.06-17.04.35:141][859]LogUObjectBase: Warning: Object is not registered
+[2019.05.06-17.04.35:141][859]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.06-17.04.35:813][859]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.672 s
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: 
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: Stack: 
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffdf4378304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.06-17.04.35:813][859]LogOutputDevice: Error: [Callstack] 0x00007ffdf43881ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffdf548bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffdf1f3769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffdf1ef0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe17e27c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe18074393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe17e82d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe17e58a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe17e4b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe2a97dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe2a970de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe2a9801eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe2a96ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe4aa4ca66 USER32.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe4aa4c582 USER32.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ffe2a981746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ff78bab5546 UE4Editor.exe!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ff78bac596c UE4Editor.exe!UnknownFunction []
+[2019.05.06-17.04.35:814][859]LogOutputDevice: Error: [Callstack] 0x00007ff78bac59ea UE4Editor.exe!UnknownFunction []
+[2019.05.06-17.04.35:815][859]LogOutputDevice: Error: [Callstack] 0x00007ff78bad48da UE4Editor.exe!UnknownFunction []
+[2019.05.06-17.04.35:815][859]LogOutputDevice: Error: [Callstack] 0x00007ff78bad659a UE4Editor.exe!UnknownFunction []
+[2019.05.06-17.04.35:815][859]LogOutputDevice: Error: [Callstack] 0x00007ffe4a937974 KERNEL32.DLL!UnknownFunction []
+[2019.05.06-17.04.35:815][859]LogOutputDevice: Error: [Callstack] 0x00007ffe4b36a271 ntdll.dll!UnknownFunction []
+[2019.05.06-17.04.35:815][859]LogOutputDevice: Error: 
+[2019.05.06-17.04.35:822][859]LogStats:                SubmitErrorReport -  0.000 s
+[2019.05.06-17.04.36:510][859]LogStats:                    SendNewReport -  0.687 s
+[2019.05.06-17.04.36:510][859]LogStats:             FDebug::EnsureFailed -  1.369 s
+[2019.05.06-17.04.36:510][859]LogUObjectBase: Warning: Object is not registered
+[2019.05.06-17.04.45:770][803]BlueprintLog: New page: Compile Caves
+[2019.05.06-17.04.47:273][864]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.04.47:292][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.47:292][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.04.47:292][864]PIE: New page: SIE session: Caves (6 May 2019 19:04:47)
+[2019.05.06-17.04.47:292][864]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.04.47:317][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026110s)
+[2019.05.06-17.04.47:318][864]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.04.47:318][864]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.05.06-17.04.47:318][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026697s)
+[2019.05.06-17.04.47:373][864]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.04.47:387][864]LogInit: FAudioDevice initialized.
+[2019.05.06-17.04.47:429][864]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.04.47:431][864]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.04.47
+[2019.05.06-17.04.47:431][864]LogWorld: Bringing up level for play took: 0.001841
+[2019.05.06-17.04.47:444][864]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.04.47:447][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.51:082][864]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 3.936
+[2019.05.06-17.04.51:082][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.53:237][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.53:237][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.53:298][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.04.53:298][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.04.53:329][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.04.53:733][999]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.06-17.05.33:967][242]LogSlate: Took 0.055976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.06-17.05.39:467][655]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.05.06-17.05.43:318][956]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.06-17.05.43:322][956]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.06-17.05.47:088][225]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/CavesB8891164460598A0444A179DDAEA14AB.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.05.47:123][225]LogFileHelpers: Saving map 'Caves' took 0.987
+[2019.05.06-17.05.47:672][233]BlueprintLog: New page: Compile Caves
+[2019.05.06-17.05.49:024][272]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.05.49:043][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.05.49:043][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.05.49:043][272]PIE: New page: SIE session: Caves (6 May 2019 19:05:49)
+[2019.05.06-17.05.49:043][272]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.05.49:071][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028026s)
+[2019.05.06-17.05.49:072][272]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.05.49:072][272]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2019.05.06-17.05.49:072][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.028689s)
+[2019.05.06-17.05.49:126][272]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.05.49:141][272]LogInit: FAudioDevice initialized.
+[2019.05.06-17.05.49:176][272]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.05.49:178][272]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.05.49
+[2019.05.06-17.05.49:178][272]LogWorld: Bringing up level for play took: 0.002058
+[2019.05.06-17.05.49:190][272]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.05.49:191][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.05.53:757][272]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	Wall_C /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves:PersistentLevel.Wall_C_75
+	Function /Game/Game/Blueprints/Caves/Wall.Wall_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature:0000
+[2019.05.06-17.05.53:757][272]PIE: Error: Infinite loop detected. Blueprint:  Wall Function:  On Component Begin Overlap (Box) Call Stack:  Show
+[2019.05.06-17.05.57:537][272]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 8.391
+[2019.05.06-17.05.57:538][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.05.57:539][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.05.57:540][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.05.57:615][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.05.57:616][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.05.57:646][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.05.58:090][273]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.06-17.05.59:172][365]LogSlate: Window 'Message Log' being destroyed
+[2019.05.06-17.05.59:176][365]LogSlate: Window 'Message Log' being destroyed
+[2019.05.06-17.06.04:274][852]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.06.04:293][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.06.04:293][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.06.04:405][852]LogPlayLevel: [PlayLevel] Compiling Caves before play...
+[2019.05.06-17.06.04:770][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 477 ms (1 blueprints)
+[2019.05.06-17.06.04:770][852]PIE: New page: SIE session: Caves (6 May 2019 19:06:04)
+[2019.05.06-17.06.04:770][852]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.06.04:796][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026035s)
+[2019.05.06-17.06.04:796][852]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.06.04:796][852]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.05.06-17.06.04:796][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026626s)
+[2019.05.06-17.06.04:848][852]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.06.04:863][852]LogInit: FAudioDevice initialized.
+[2019.05.06-17.06.04:894][852]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.06.04:897][852]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.06.04
+[2019.05.06-17.06.04:897][852]LogWorld: Bringing up level for play took: 0.001704
+[2019.05.06-17.06.04:908][852]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.06.04:909][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.06.07:461][852]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 2.315
+[2019.05.06-17.06.07:462][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.06.10:221][ 68]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.06-17.06.10:904][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.06.12:090][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.06.12:090][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.06.12:146][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.06.12:146][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.06.12:177][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.06.12:594][203]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.06-17.08.56:913][832]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/HUD_CavesEE550C1A4ECD2A001BB9BE8FF785C153.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/Blueprints/Caves/HUD_Caves.uasset'
+[2019.05.06-17.08.57:513][901]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.08.57:530][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.08.57:530][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.08.57:557][901]LogPlayLevel: [PlayLevel] Compiling HUD_Caves before play...
+[2019.05.06-17.08.57:717][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2019.05.06-17.08.57:717][901]PIE: New page: SIE session: Caves (6 May 2019 19:08:57)
+[2019.05.06-17.08.57:717][901]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.08.57:743][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025925s)
+[2019.05.06-17.08.57:743][901]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.08.57:744][901]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.05.06-17.08.57:744][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026590s)
+[2019.05.06-17.08.57:794][901]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.08.57:809][901]LogInit: FAudioDevice initialized.
+[2019.05.06-17.08.57:837][901]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.08.57:839][901]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.08.57
+[2019.05.06-17.08.57:839][901]LogWorld: Bringing up level for play took: 0.001843
+[2019.05.06-17.08.57:851][901]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.08.57:852][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.00:372][901]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 3.226
+[2019.05.06-17.09.00:372][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.01:700][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.01:700][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.01:740][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.09.01:740][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.01:789][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.01:810][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.06-17.09.16:489][379]LogBlueprint: Warning: Unknown type of hyperlinked object (Caves), cannot focus it
+[2019.05.06-17.09.30:505][684]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.09.30:523][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.30:524][684]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.09.30:637][684]LogPlayLevel: [PlayLevel] Compiling Caves before play...
+[2019.05.06-17.09.31:003][684]LogPlayLevel: PlayLevel: Blueprint regeneration took 479 ms (1 blueprints)
+[2019.05.06-17.09.31:003][684]PIE: New page: SIE session: Caves (6 May 2019 19:09:31)
+[2019.05.06-17.09.31:003][684]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.09.31:029][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026090s)
+[2019.05.06-17.09.31:030][684]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.09.31:030][684]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.05.06-17.09.31:030][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026707s)
+[2019.05.06-17.09.31:078][684]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.09.31:092][684]LogInit: FAudioDevice initialized.
+[2019.05.06-17.09.31:126][684]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.09.31:128][684]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.09.31
+[2019.05.06-17.09.31:129][684]LogWorld: Bringing up level for play took: 0.001761
+[2019.05.06-17.09.31:140][684]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.09.31:141][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.33:762][684]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 2.617
+[2019.05.06-17.09.33:763][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.46:985][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.46:985][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.47:046][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.09.47:046][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.09.47:093][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.09.47:511][844]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.06-17.09.56:118][674]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Caves.Caves
+[2019.05.06-17.09.57:257][674]LogSlate: Window 'Save Content' being destroyed
+[2019.05.06-17.09.58:146][674]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Caves231EDAFB4F7D73465E588DB0E74968AE.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.09.58:179][674]LogFileHelpers: Saving map 'Caves' took 0.917
+[2019.05.06-17.09.58:180][674]LightingResults: New page: Lighting Build
+[2019.05.06-17.09.58:181][674]LoadErrors: New page: Loading map: Caves.umap
+[2019.05.06-17.09.58:217][674]MapCheck: New page: Map Check
+[2019.05.06-17.09.58:217][674]LightingResults: New page: Lighting Build
+[2019.05.06-17.09.58:567][674]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.09.58:651][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.09.58:710][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.09.58:710][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.05.06-17.09.58:711][674]LogFileHelpers: Loading map 'Caves' took 0.530
+[2019.05.06-17.09.59:845][742]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.09.59:849][742]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Display.Display
+[2019.05.06-17.09.59:877][742]LightingResults: New page: Lighting Build
+[2019.05.06-17.09.59:878][742]LoadErrors: New page: Loading map: Display.umap
+[2019.05.06-17.09.59:879][742]MapCheck: New page: Map Check
+[2019.05.06-17.09.59:879][742]LightingResults: New page: Lighting Build
+[2019.05.06-17.09.59:985][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.10.00:041][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.10.00:041][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2019.05.06-17.10.00:041][742]LogFileHelpers: Loading map 'Display' took 0.164
+[2019.05.06-17.10.01:638][921]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Display.Display
+[2019.05.06-17.10.01:665][921]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.01:665][921]LoadErrors: New page: Loading map: Display.umap
+[2019.05.06-17.10.01:666][921]MapCheck: New page: Map Check
+[2019.05.06-17.10.01:666][921]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.02:123][921]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.10.02:210][921]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.10.02:276][921]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.10.02:277][921]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.05.06-17.10.02:277][921]LogFileHelpers: Loading map 'Display' took 0.613
+[2019.05.06-17.10.05:504][279]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Display.Display:PersistentLevel.Display
+[2019.05.06-17.10.22:666][569]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.10.22:673][569]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Caves.Caves
+[2019.05.06-17.10.22:706][569]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.22:706][569]LoadErrors: New page: Loading map: Caves.umap
+[2019.05.06-17.10.22:784][569]MapCheck: New page: Map Check
+[2019.05.06-17.10.22:784][569]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.22:892][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.10.22:948][569]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.10.22:949][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2019.05.06-17.10.22:949][569]LogFileHelpers: Loading map 'Caves' took 0.243
+[2019.05.06-17.10.28:932][234]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves
+[2019.05.06-17.10.31:732][424]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.06-17.10.34:466][634]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.10.34:489][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.10.34:489][634]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.10.34:603][634]LogPlayLevel: [PlayLevel] Compiling Caves before play...
+[2019.05.06-17.10.34:963][634]LogPlayLevel: PlayLevel: Blueprint regeneration took 472 ms (1 blueprints)
+[2019.05.06-17.10.34:963][634]PIE: New page: SIE session: Caves (6 May 2019 19:10:34)
+[2019.05.06-17.10.34:963][634]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.10.34:989][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025703s)
+[2019.05.06-17.10.34:989][634]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.10.34:989][634]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.05.06-17.10.34:989][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026295s)
+[2019.05.06-17.10.35:040][634]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.10.35:055][634]LogInit: FAudioDevice initialized.
+[2019.05.06-17.10.35:097][634]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.10.35:100][634]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.10.35
+[2019.05.06-17.10.35:100][634]LogWorld: Bringing up level for play took: 0.002094
+[2019.05.06-17.10.35:113][634]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.10.35:132][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.10.38:132][634]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 2.987
+[2019.05.06-17.10.38:133][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.10.52:032][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.06-17.10.53:070][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.10.53:145][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.10.53:145][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.10.53:207][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.10.53:207][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.10.53:249][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.10.53:693][748]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.06-17.10.57:396][ 36]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.10.57:401][ 36]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Display.Display
+[2019.05.06-17.10.58:481][ 36]LogSlate: Window 'Save Content' being destroyed
+[2019.05.06-17.10.59:370][ 36]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/CavesA911BD844FB88ABF88E8B5A4B78A3246.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.10.59:403][ 36]LogFileHelpers: Saving map 'Caves' took 0.915
+[2019.05.06-17.10.59:403][ 36]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.59:404][ 36]LoadErrors: New page: Loading map: Display.umap
+[2019.05.06-17.10.59:440][ 36]MapCheck: New page: Map Check
+[2019.05.06-17.10.59:440][ 36]LightingResults: New page: Lighting Build
+[2019.05.06-17.10.59:557][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.10.59:613][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.10.59:613][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2019.05.06-17.10.59:613][ 36]LogFileHelpers: Loading map 'Display' took 0.211
+[2019.05.06-17.10.59:958][ 36]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.11.00:886][130]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Display.Display:PersistentLevel.Display
+[2019.05.06-17.11.26:063][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.11.26:063][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.11.26:063][548]PIE: New page: PIE session: Display (6 May 2019 19:11:26)
+[2019.05.06-17.11.26:063][548]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Display
+[2019.05.06-17.11.26:093][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030330s)
+[2019.05.06-17.11.26:094][548]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.11.26:094][548]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.05.06-17.11.26:094][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Display.Display to /Game/Game/RenderTypes/UEDPIE_0_Display.Display (0.030906s)
+[2019.05.06-17.11.26:149][548]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.11.26:164][548]LogInit: FAudioDevice initialized.
+[2019.05.06-17.11.26:192][548]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.11.26:193][548]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Display.Display up for play (max tick rate 0) at 2019.05.06-18.11.26
+[2019.05.06-17.11.26:193][548]LogWorld: Bringing up level for play took: 0.001286
+[2019.05.06-17.11.28:699][548]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Display 3.554
+[2019.05.06-17.11.28:699][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.11.29:558][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.11.29:559][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.11.29:641][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.11.29:642][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Display.Display:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display' with GeneratedClass '/Game/Game/RenderTypes/Display.Display_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Display.Display:PersistentLevel.Display'
+[2019.05.06-17.11.29:684][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.11.30:461][593]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.05.06-17.11.35:562][886]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Caves.Caves
+[2019.05.06-17.11.35:588][886]LightingResults: New page: Lighting Build
+[2019.05.06-17.11.35:589][886]LoadErrors: New page: Loading map: Caves.umap
+[2019.05.06-17.11.35:665][886]MapCheck: New page: Map Check
+[2019.05.06-17.11.35:665][886]LightingResults: New page: Lighting Build
+[2019.05.06-17.11.35:779][886]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.11.35:836][886]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.11.35:836][886]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.05.06-17.11.35:837][886]LogFileHelpers: Loading map 'Caves' took 0.250
+[2019.05.06-17.11.57:471][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.11.57:471][ 13]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.11.57:473][ 13]LogPlayLevel: [PlayLevel] Compiling HUD_Caves before play...
+[2019.05.06-17.11.57:638][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.05.06-17.11.57:638][ 13]PIE: New page: SIE session: Caves (6 May 2019 19:11:57)
+[2019.05.06-17.11.57:638][ 13]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.11.57:664][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025661s)
+[2019.05.06-17.11.57:664][ 13]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.11.57:664][ 13]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.05.06-17.11.57:664][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026214s)
+[2019.05.06-17.11.57:713][ 13]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.11.57:728][ 13]LogInit: FAudioDevice initialized.
+[2019.05.06-17.11.57:758][ 13]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.11.57:764][ 13]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.11.57
+[2019.05.06-17.11.57:765][ 13]LogWorld: Bringing up level for play took: 0.004786
+[2019.05.06-17.11.57:779][ 13]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.11.57:800][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.12.00:755][ 13]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 3.609
+[2019.05.06-17.12.00:756][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.12.04:284][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.12.04:284][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.12.04:322][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.12.04:322][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.12.04:350][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.12.04:383][250]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.06-17.12.06:393][453]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/HUD_CavesBCEC8430432825D829B41D83CB23D2B4.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/Blueprints/Caves/HUD_Caves.uasset'
+[2019.05.06-17.12.20:271][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.06-17.12.20:578][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.12.21:126][961]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.12.21:144][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.12.21:144][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.12.21:144][961]PIE: New page: SIE session: Caves (6 May 2019 19:12:21)
+[2019.05.06-17.12.21:144][961]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.12.21:171][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026634s)
+[2019.05.06-17.12.21:171][961]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.12.21:172][961]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.05.06-17.12.21:172][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.027387s)
+[2019.05.06-17.12.21:220][961]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.12.21:235][961]LogInit: FAudioDevice initialized.
+[2019.05.06-17.12.21:263][961]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.12.21:265][961]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.12.21
+[2019.05.06-17.12.21:266][961]LogWorld: Bringing up level for play took: 0.001541
+[2019.05.06-17.12.21:277][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.12.21:288][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.12.23:956][961]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 2.81
+[2019.05.06-17.12.23:957][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.12.34:859][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.06-17.12.39:096][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.12.58:202][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.13.14:285][182]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall93)
+[2019.05.06-17.13.14:885][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.06-17.13.15:348][257]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.05.06-17.13.15:371][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.06-17.13.24:889][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-17.13.33:195][823]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves
+[2019.05.06-17.13.37:163][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.37:163][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.13.37:224][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.13.37:225][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.37:275][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.13.37:717][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.06-17.13.38:045][116]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.06-17.13.43:993][633]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.13.44:009][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.44:009][633]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.13.44:122][633]LogPlayLevel: [PlayLevel] Compiling Caves before play...
+[2019.05.06-17.13.44:481][633]LogPlayLevel: PlayLevel: Blueprint regeneration took 472 ms (1 blueprints)
+[2019.05.06-17.13.44:481][633]PIE: New page: SIE session: Caves (6 May 2019 19:13:44)
+[2019.05.06-17.13.44:481][633]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.13.44:507][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025531s)
+[2019.05.06-17.13.44:507][633]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.13.44:507][633]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.05.06-17.13.44:507][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026135s)
+[2019.05.06-17.13.44:558][633]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.13.44:573][633]LogInit: FAudioDevice initialized.
+[2019.05.06-17.13.44:602][633]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.13.44:604][633]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.13.44
+[2019.05.06-17.13.44:604][633]LogWorld: Bringing up level for play took: 0.001624
+[2019.05.06-17.13.44:616][633]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.13.44:617][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.13.48:110][633]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 4.964
+[2019.05.06-17.13.48:111][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.50:120][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.50:120][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.13.50:187][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.13.50:187][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.13.50:235][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.13.50:650][773]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.06-17.14.04:415][779]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Caves68FE1945453C3AEDD249DB88F05289B9.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.14.04:447][779]LogFileHelpers: Saving map 'Caves' took 0.907
+[2019.05.06-17.14.08:687][193]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.14.08:705][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.08:705][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-17.14.08:705][193]PIE: New page: SIE session: Caves (6 May 2019 19:14:08)
+[2019.05.06-17.14.08:705][193]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.14.08:730][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026488s)
+[2019.05.06-17.14.08:731][193]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.14.08:731][193]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2019.05.06-17.14.08:731][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.027120s)
+[2019.05.06-17.14.08:787][193]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.14.08:801][193]LogInit: FAudioDevice initialized.
+[2019.05.06-17.14.08:850][193]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.14.08:852][193]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.14.08
+[2019.05.06-17.14.08:852][193]LogWorld: Bringing up level for play took: 0.001845
+[2019.05.06-17.14.08:864][193]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.14.08:865][193]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_AddToViewport', from offset 6666
+[2019.05.06-17.14.08:865][193]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ReceiveBeginPlay
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ExecuteUbergraph_Caves
+
+[2019.05.06-17.14.16:583][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.19:225][193]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 10.08
+[2019.05.06-17.14.19:225][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.19:227][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.19:227][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.19:294][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.14.19:294][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.19:322][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.19:741][194]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.06-17.14.31:757][447]LogTemp: Repeating last play command: Simulate
+[2019.05.06-17.14.31:774][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.31:774][447]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.06-17.14.31:888][447]LogPlayLevel: [PlayLevel] Compiling Caves before play...
+[2019.05.06-17.14.32:248][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 473 ms (1 blueprints)
+[2019.05.06-17.14.32:248][447]PIE: New page: SIE session: Caves (6 May 2019 19:14:32)
+[2019.05.06-17.14.32:248][447]LogPlayLevel: Creating play world package: /Game/Game/RenderTypes/UEDPIE_0_Caves
+[2019.05.06-17.14.32:274][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025758s)
+[2019.05.06-17.14.32:275][447]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.14.32:275][447]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2019.05.06-17.14.32:275][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/RenderTypes/Caves.Caves to /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves (0.026335s)
+[2019.05.06-17.14.32:325][447]LogInit: XAudio2 using 'Logitech (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.06-17.14.32:340][447]LogInit: FAudioDevice initialized.
+[2019.05.06-17.14.32:374][447]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.05.06-17.14.32:377][447]LogWorld: Bringing World /Game/Game/RenderTypes/UEDPIE_0_Caves.Caves up for play (max tick rate 0) at 2019.05.06-18.14.32
+[2019.05.06-17.14.32:377][447]LogWorld: Bringing up level for play took: 0.001641
+[2019.05.06-17.14.32:390][447]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.06-17.14.32:391][447]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_AddToViewport', from offset 6706
+[2019.05.06-17.14.32:391][447]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ReceiveBeginPlay
+	Function /Game/Game/RenderTypes/Caves.Caves_C:ExecuteUbergraph_Caves
+
+[2019.05.06-17.14.34:900][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.39:194][447]PIE: Play in editor start time for /Game/Game/RenderTypes/UEDPIE_0_Caves 8.048
+[2019.05.06-17.14.39:194][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.43:672][813]Cmd: STAT FPS
+[2019.05.06-17.14.44:843][910]Cmd: STAT FPS
+[2019.05.06-17.14.47:850][ 96]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Caves00892D5D494E66B5C36CB99ADABD2837.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.14.47:882][ 96]LogFileHelpers: Saving map 'Caves' took 0.919
+[2019.05.06-17.14.50:870][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.50:870][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.50:927][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-17.14.50:927][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel' has LevelScriptBlueprint '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves' with GeneratedClass '/Game/Game/RenderTypes/Caves.Caves_C' with ClassGeneratedBy '/Game/Game/RenderTypes/Caves.Caves:PersistentLevel.Caves'
+[2019.05.06-17.14.50:970][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-17.14.51:168][360]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.06-17.14.58:099][ 43]LogAIModule: Creating AISystem for world Display
+[2019.05.06-17.14.58:103][ 43]LogAssetEditorManager: Opening Asset editor for World /Game/Game/RenderTypes/Display.Display
+[2019.05.06-17.14.59:488][ 43]LogSlate: Window 'Save Content' being destroyed
+[2019.05.06-17.15.00:389][ 43]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/CavesC29820014DBA79CB906CE2B2960B5275.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Caves.umap'
+[2019.05.06-17.15.00:421][ 43]LogFileHelpers: Saving map 'Caves' took 0.927
+[2019.05.06-17.15.00:422][ 43]LightingResults: New page: Lighting Build
+[2019.05.06-17.15.00:422][ 43]LoadErrors: New page: Loading map: Display.umap
+[2019.05.06-17.15.00:458][ 43]MapCheck: New page: Map Check
+[2019.05.06-17.15.00:458][ 43]LightingResults: New page: Lighting Build
+[2019.05.06-17.15.00:579][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-17.15.00:636][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-17.15.00:636][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.05.06-17.15.00:636][ 43]LogFileHelpers: Loading map 'Display' took 0.215
+[2019.05.06-17.15.00:977][ 43]LogAIModule: Creating AISystem for world Caves
+[2019.05.06-17.15.03:981][382]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game/RenderTypes/Display.Display:PersistentLevel.Display
+[2019.05.06-17.15.13:482][899]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.741 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.06-17.16.32:979][154]LogSlate: Window 'Save Content' being destroyed
+[2019.05.06-17.16.34:146][154]LogSavePackage: Moving '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Saved/Display86A5A4E5492A60BF1860D988F2943DB7.tmp' to '../../../../../../Users/olive/OneDrive/University/3rdYear/GameProject/Implementation/The Cornocopian Complexity/Content/Game/RenderTypes/Display.umap'
+[2019.05.06-17.16.34:179][154]LogFileHelpers: Saving map 'Display' took 1.187
+[2019.05.06-17.16.34:246][154]LogSlate: Window 'Display - Level Blueprint Editor' being destroyed
+[2019.05.06-17.16.34:270][154]LogSlate: Window 'Cornocopian - Unreal Editor' being destroyed
+[2019.05.06-17.16.34:271][154]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.06-17.16.34:351][155]Cmd: QUIT_EDITOR
+[2019.05.06-17.16.35:164][155]LogExit: Preparing to exit.
+[2019.05.06-17.16.36:016][155]LogExit: Editor shut down
+[2019.05.06-17.16.36:016][155]LogExit: Transaction tracking system shut down
+[2019.05.06-17.16.36:201][155]LogExit: Object subsystem successfully closed.
+[2019.05.06-17.16.36:216][155]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.06-17.16.36:219][155]LogD3D11RHI: Shutdown
+[2019.05.06-17.16.36:219][155]LogD3D11RHI: CleanupD3DDevice
+[2019.05.06-17.16.36:224][155]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module SequencerWidgets (626)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.05.06-17.16.36:243][155]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SceneOutliner (612)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.05.06-17.16.36:244][155]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.05.06-17.16.36:245][155]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.06-17.16.37:110][155]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.06-17.16.37:111][155]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.06-17.16.37:166][155]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.06-17.16.37:171][155]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.06-17.16.37:171][155]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.06-17.16.37:173][155]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.05.06-17.16.37:176][155]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.06-17.16.37:346][155]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.06-17.16.37:347][155]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.05.06-17.16.37:347][155]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.05.06-17.16.37:347][155]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.06-17.16.37:350][155]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.06-17.16.37:351][155]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.06-17.16.37:452][155]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.06-17.16.37:554][155]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.06-17.16.37:555][155]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.06-17.16.37:557][155]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.06-17.16.37:563][155]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.06-17.16.37:565][155]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.06-17.16.37:648][155]LogDerivedDataCache: Shutdown
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.06-17.16.37:648][155]LogXGEController: Cleaning working directory: C:/Users/olive/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.06-17.16.37:648][155]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.06-17.16.37:649][155]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.06-17.16.37:650][155]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.06-17.16.37:650][155]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.06-17.16.37:650][155]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.06-17.16.37:650][155]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.06-17.16.37:655][155]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.06-17.16.37:655][155]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.06-17.16.37:656][155]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.06-17.16.37:656][155]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.06-17.16.37:659][155]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.06-17.16.37:659][155]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.06-17.16.37:659][155]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3859864-4196-B33E-2648-808E380302A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=3ddf87964e4ce0066d59ecb445efaac3%7C844d47d1e8514b32b359362f340fbd7d%7Ce329b102-e70b-4b33-8c6e-eba86569838b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.06-17.16.37:659][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.38:160][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.38:660][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.39:161][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.39:662][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.40:162][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.40:663][155]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.06-17.16.41:178][155]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.06-17.16.41:179][155]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.06-17.16.41:180][155]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.06-17.16.41:180][155]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.06-17.16.41:180][155]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.06-17.16.41:180][155]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.06-17.16.41:180][155]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.06-17.16.41:180][155]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.06-17.16.41:181][155]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.06-17.16.41:181][155]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.06-17.16.41:181][155]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.06-17.16.41:181][155]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.06-17.16.41:182][155]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.06-17.16.41:187][155]LogExit: Exiting.
+[2019.05.06-17.16.41:196][155]Log file closed, 05/06/19 18:16:41
