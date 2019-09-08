@@ -1,6 +1,5 @@
 # TheCornocopianComplexity
 
-Abstract —
 Context/Background - The increasing commercial success of video games is matched only by the
 difficulty in developing them, therefore it has become fashionable to incorporate Procedural Content Gen- eration (PCG) into game design to meet growing end-user demand for a clean, polished, yet intricate final product, while remaining within production constraints. However, developing game composition programmatically yields the issue of ensuring output appropriately conveys the message and recreational experience intended for the player by a developer, culminating from inability of algorithms too effectively identify desirable content.
 
